@@ -1,1 +1,5 @@
 .env
+
+socket-frontend/node_modules/
+socket-backend/node_modules/
+node_modules/
